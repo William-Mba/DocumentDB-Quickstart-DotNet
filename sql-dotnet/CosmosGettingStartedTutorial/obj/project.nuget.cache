@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "McqSc8YKPOQXhytayi2uUBFxdOQrW1SdgKfZhiUjE3ympsl0He2ZU+E432TOOGXPNRorXzl8Y+PUK6aNztMrCg==",
+  "dgSpecHash": "BG+CV6w9CqWikPBoGhAusT+HdmXuDvVxeZcATks3euJYEZJcFIMNY/PIN5hNDqom8Opm2jTk778jcdrRVhxVig==",
   "success": true,
   "projectFilePath": "C:\\Users\\hp\\source\\Projets\\DocumentDB-Quickstart-DotNet\\sql-dotnet\\CosmosGettingStartedTutorial\\CosmosGettingStarted.csproj",
   "expectedPackageFiles": [
